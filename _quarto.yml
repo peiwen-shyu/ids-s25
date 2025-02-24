@@ -36,3 +36,4 @@ format:
 
 execute:
   freeze: auto
+  kernel: python3
