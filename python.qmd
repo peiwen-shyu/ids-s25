@@ -386,4 +386,5 @@ environment. You can verify the installation by running
 `pip list`, which should show requests along with its version.
 
 
-## Numpy
+## Developing a Python Package
+{{< include _py_package.qmd >}}
